@@ -24,6 +24,3 @@ What it found:
 - offset ≈ 0.5 ± small
 - noise ≈ 0.2 ± tiny
 
-How to run:
-pip install bilby numpy matplotlib
-python sine_test.py
