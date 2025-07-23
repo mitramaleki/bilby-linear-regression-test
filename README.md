@@ -17,10 +17,10 @@ Results image:
 <img width="1163" height="1178" alt="a51238d1-0299-4262-815f-beb9e0796390" src="https://github.com/user-attachments/assets/2d07abc1-c24e-4b03-8567-929e8eb1dbce" />
 
 
-What it found:
-- amplitude ≈ 1.5 ± small
-- frequency ≈ 0.2 ± tiny
-- phase ≈ 0.3 ± bit
-- offset ≈ 0.5 ± small
-- noise ≈ 0.2 ± tiny
+
+What Bilby Found:
+- amplitude: 1.52 ± 0.02 (close to my 1.5)
+- frequency: 0.20-0.22 range (matches my 0.2)
+- phase/offset: check corner plot
+- noise: see plot
 
